@@ -1,0 +1,92 @@
+body{
+    background-color: whitesmoke;
+}
+
+.start{
+    background-color: rgb(47, 47, 224);
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    width: 270px;
+    margin: auto;
+    color: white;
+    padding-top:10px;
+    border-radius: 25px;
+    display: grid;
+    
+}
+
+.start{
+    text-align: center;
+}
+#circle{
+        border-radius: 50px;
+        background-color: rgb(50, 50, 184);
+        width: 100px;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        font-weight: lighter;
+}
+.new{
+    height: 400px;
+    width: 300px;
+    background-color: white;
+    text-align: start;
+}
+#one{
+    background-color: rgb(247, 192, 247);
+    height: min-content;
+    width: 250px;
+    border-radius: 18px;
+    margin: auto;
+}
+#two{
+    background-color: rgb(247, 192, 247);
+    height: min-content;
+    width: 250px;
+    border-radius: 18px;
+    margin: auto;
+}
+#three{
+    background-color: rgb(247, 192, 247);
+    height: min-content;
+    width: 250px;
+    border-radius: 18px;
+    margin: auto;
+}
+#four{
+    background-color: rgb(247, 192, 247);
+    height: min-content;
+    width: 250px;
+    border-radius: 18px;
+    margin: auto;
+}
+
+#one p{
+    color: black;
+}
+
+#two p{
+    color: black;
+}
+#three p{
+    color: black;
+}
+#four p{
+    color: black;
+}
+button{
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(9, 30, 94);
+    text-align: center;
+    height: 50px;
+    width: 250px;
+    border-radius: 20px;
+    color: white;
+    padding-left: 20px;
+    margin: 30px;
+    
+}
+
